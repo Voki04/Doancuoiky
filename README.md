@@ -1,3 +1,6 @@
 # Doancuoiky
-#chạy file sql trong mysql để tạo đủ database
-# giải nén file ALOTRASHOP.rar và sử dụng bình thường trên STS hoặc Intellij
+# Thành viên nhóm 18
+# Mai Khắc Quyền - 22162037
+# Đỗ Phương Thuỳ - 22162045 
+# Nguyễn Văn An - 22162002 
+# 
